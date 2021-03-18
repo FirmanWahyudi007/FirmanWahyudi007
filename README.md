@@ -14,7 +14,7 @@
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirmanWahyudi007&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanWahyudi007&layout=compact)](https://github.com/FirmanWahyudi007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanWahyudi007&layout=compact)](https://github.com/FirmanWahyudi007)
 
 <!---
 FirmanWahyudi007/FirmanWahyudi007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
