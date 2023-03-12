@@ -1,7 +1,6 @@
 ## Hi There, i'm Firman
 
-- 👀 I’m interested in Mobile and Web Aplication
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in Backend Developer
 - 📫 How to reach me firmangetrich50@gmail.com
 
 ## Technologies & Tools
