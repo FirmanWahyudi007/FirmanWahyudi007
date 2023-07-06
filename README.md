@@ -1,7 +1,7 @@
 ## Hi There, i'm Firman
 
 - 👀 I’m interested in Backend Developer
-- 📫 How to reach me firmangetrich50@gmail.com
+- 📫 How to reach me firmanwhyd007@gmail.com
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
