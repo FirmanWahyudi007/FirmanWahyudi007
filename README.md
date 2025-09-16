@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![Tools-NestJs](https://img.shields.io/badge/Tools-NestJs-informational?style=flat&logo=nest&logoColor=white&color=2bbc8a)
+![Tools-NestJS](https://img.shields.io/badge/Tools-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 ![Tools-Golang](https://img.shields.io/badge/Tools-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![Tools-TailwindCSS](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![Tools-React](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
